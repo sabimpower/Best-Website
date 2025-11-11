@@ -14,12 +14,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Flash USDT Generator – Instant Tether Generator 2025",
+  description: "Generate free USDT instantly with our Flash USDT Generator 2025. Fast, secure, and easy-to-use Tether generator tool designed for instant wallet transactions and unlimited crypto generation.",
+  keywords: ["Flash USDT Generator", "Free USDT Generator", "Instant Tether Generator", "USDT Flash Tool", "Crypto USDT Generator", "Tether Generator 2025", "USDT Wallet Generator", "Flash Tether Transaction", "Generate USDT Instantly", "Free Crypto Generator"],
+  authors: [{ name: "FLASH" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "https://i.postimg.cc/25yK8Hcy/1000051467-removebg-preview.png",
   },
   openGraph: {
     title: "Z.ai Code Scaffold",
