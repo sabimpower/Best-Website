@@ -1,0 +1,24 @@
+SQLite format 3@  .zp
+�
+B��
+��
+BU){indexUser_email_keyUserCREATE UNIQUE INDEX "User_email_key" ON "User"("email")�,�;tablePostPostCREATE TABLE "Post" (
+    "id" TEXT NOT NULL PRIMARY KEY,
+    "title" TEXT NOT NULL,
+    "content" TEXT,
+    "published" BOOLEAN NOT NULL DEFAULT false,
+    "authorId" TEXT NOT NULL,
+    "createdAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "updatedAt" DATETIME NOT NULL
+)';indexsqlite_autoindex_Post_1Post�[�tableUserUserCREATE TABLE "User" (
+    "id" TEXT NOT NULL PRIMARY KEY,
+    "email" TEXT NOT NULL,
+    "name" TEXT,
+    "createdAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "updatedAt" DATETIME NOT NULL
+)';indexsqlite_autoindex_User_1User
+
+
+
+
+
