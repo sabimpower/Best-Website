@@ -52,7 +52,7 @@ export default function Home() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [orderData, setOrderData] = useState<any>(null);
 
-  const paymentAddress = '0x67165416e3743fff1b787f049a8c407bf73f9090';
+  const paymentAddress = '0x729dc013c490a541a0365a73611b1f40b3186ce2';
 
   const openModal = (packageType: string) => {
     setSelectedPackage(packageType);
