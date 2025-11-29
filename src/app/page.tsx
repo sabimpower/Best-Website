@@ -27,11 +27,11 @@ const packages = {
   },
   mega: {
     name: 'Mega Package',
-    amount: '13,000',
-    price: '$99',
-    originalPrice: '$149',
+    amount: '',
+    price: '$6.99',
+    originalPrice: '$16',
     currency: 'USDT',
-    discount: 'Save $50',
+    discount: 'Save $9',
     features: ['Instant Processing', 'Secure Transaction', '24/7 Support', '6 months validity']
   }
 };
