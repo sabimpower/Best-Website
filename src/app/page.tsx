@@ -5,8 +5,8 @@ import { useState, useEffect } from 'react';
 const packages = {
   basic: {
     name: 'Basic Package',
-    amount: '2,450',
-    price: '$25',
+    amount: '1,450',
+    price: '$10',
     currency: 'USDT',
     features: ['Instant Processing', 'Secure Transaction', '24/7 Support', '6 months validity']
   },
