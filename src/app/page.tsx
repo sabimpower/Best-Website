@@ -293,8 +293,8 @@ export default function Home() {
               
               <div className="text-center mb-6">
                 <div className="text-gray-600 mb-2">USDT</div>
-                <div className="text-3xl font-bold text-green-600 mb-4">2,450</div>
-                <div className="text-2xl font-bold">$25</div>
+                <div className="text-3xl font-bold text-green-600 mb-4">1,450</div>
+                <div className="text-2xl font-bold">$10</div>
               </div>
               
               <ul className="space-y-3 mb-6">
